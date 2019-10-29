@@ -5,4 +5,12 @@
 
 > Exemplo de integração do Cypress com axe
 
+## Instalação 
+
+Rode o comando ```npm install``` para instalar as dependências
+
+## Rodando o Cypress
+
+Use a task ```npm run cypress:open``` para executar com a interface gráfica ou ```npm run cypress:run``` para executar no terminal.
+
 
