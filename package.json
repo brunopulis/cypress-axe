@@ -24,11 +24,11 @@
   },
   "homepage": "https://github.com/brunopulis/cypress-axe#readme",
   "devDependencies": {
-    "axe-core": "^3.4.0",
-    "cypress": "^3.5.0",
-    "cypress-axe": "^0.5.1",
-    "eslint": "^6.6.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2"
+    "axe-core": "3.4.0",
+    "cypress": "3.5.0",
+    "cypress-axe": "0.5.1",
+    "eslint": "6.6.0",
+    "eslint-config-airbnb-base": "14.0.0",
+    "eslint-plugin-import": "2.18.2"
   }
 }
