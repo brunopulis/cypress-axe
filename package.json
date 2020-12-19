@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/brunopulis/cypress-axe#readme",
   "devDependencies": {
-    "axe-core": "3.5.5",
+    "axe-core": "4.1.1",
     "cypress": "3.5.0",
     "cypress-axe": "0.5.1",
     "eslint": "6.8.0",
