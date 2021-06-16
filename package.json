@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/brunopulis/cypress-axe#readme",
   "devDependencies": {
-    "cypress": "6.3.0",
+    "cypress": "7.5.0",
     "axe-core": "4.1.2",
     "eslint": "7.18.0",
     "eslint-config-airbnb-base": "14.2.1",
